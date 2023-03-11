@@ -1,0 +1,15 @@
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\bin\Debug\net6.0\KitaplikUygulamasi.exe
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\bin\Debug\net6.0\KitaplikUygulamasi.deps.json
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\bin\Debug\net6.0\KitaplikUygulamasi.runtimeconfig.json
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\bin\Debug\net6.0\KitaplikUygulamasi.dll
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\bin\Debug\net6.0\KitaplikUygulamasi.pdb
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.csproj.AssemblyReference.cache
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.AssemblyInfoInputs.cache
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.AssemblyInfo.cs
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.dll
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\refint\KitaplikUygulamasi.dll
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.pdb
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\KitaplikUygulamasi.genruntimeconfig.cache
+C:\Users\NURGÜL\source\repos\KitaplikUygulamasi\KitaplikUygulamasi\obj\Debug\net6.0\ref\KitaplikUygulamasi.dll
